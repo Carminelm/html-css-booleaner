@@ -1,3 +1,4 @@
+/* logo */
 .logo{
     background-image: url(img/pattern.png);
     background-color: #4ea0ff;
@@ -11,8 +12,13 @@ top: 100px;
 width: 350px;
 }
 
+/* titolo */
+
+#titolo{
+    font-size: 50px;
+
+}
 
 #boolears {
     color:#b1e5f2;
-
 }
