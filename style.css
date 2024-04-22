@@ -22,3 +22,17 @@ width: 350px;
 #boolears {
     color:#b1e5f2;
 }
+
+h5{
+ margin: 0;
+padding:0;
+}
+
+.testo-lorem{
+    font-size: 25px;
+}
+
+#lorem{
+    background-color:#ffff00;
+
+}
