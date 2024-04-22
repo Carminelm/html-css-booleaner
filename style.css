@@ -28,11 +28,17 @@ h5{
 padding:0;
 }
 
-.testo-lorem{
-    font-size: 25px;
-}
-
 #lorem{
     background-color:#ffff00;
 
 }
+
+.head{
+    color: antiquewhite;
+    background-color: #3fb5e8;
+}
+
+.colore{
+    background-color: #3fb5e8;
+}
+
